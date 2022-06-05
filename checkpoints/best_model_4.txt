@@ -1,0 +1,1 @@
+{'model': 'RFC', 'max_depth': 8, 'criterion': 'gini', 'min_impurity_decrease': 0.01330803232235439, 'min_samples_leaf': 0.09081713971733937}
