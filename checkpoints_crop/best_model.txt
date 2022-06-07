@@ -1,0 +1,3 @@
+4
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}]
+[8, 4]

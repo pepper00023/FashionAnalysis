@@ -1,0 +1,90 @@
+6
+[{'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}]
+[256]
+4
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}]
+[4]
+4
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}]
+[16]
+4
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}]
+[2]
+5
+[{'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}]
+[128]
+3
+[{'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}]
+[16]
+2
+[{'n_node': 32, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}]
+[16, 4]
+6
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}]
+[16]
+5
+[{'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}]
+[2, 2]
+5
+[{'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}]
+[8, 16]
+4
+[{'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}]
+[256]
+3
+[{'n_node': 32, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}]
+[64]
+3
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}]
+[128]
+5
+[{'n_node': 32, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}]
+[2]
+6
+[{'n_node': 32, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}]
+[4, 4]
+4
+[{'n_node': 32, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}]
+[8]
+2
+[{'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}]
+[16]
+5
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}]
+[32]
+5
+[{'n_node': 32, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}]
+[8, 4]
+3
+[{'n_node': 32, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}]
+[8]
+4
+[{'n_node': 32, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}]
+[64]
+5
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}]
+[4]
+6
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}]
+[8]
+4
+[{'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}]
+[4]
+4
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}]
+[2]
+2
+[{'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}]
+[128]
+4
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 12, 'padding': 'same', 'activ_fn': 'relu'}]
+[32]
+4
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 4, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}]
+[2]
+2
+[{'n_node': 16, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}]
+[4]
+6
+[{'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 24, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 8, 'padding': 'same', 'activ_fn': 'relu'}, {'n_node': 20, 'padding': 'same', 'activ_fn': 'relu'}]
+[256]

@@ -1,0 +1,1 @@
+{'model': 'RFC', 'max_depth': 5, 'criterion': 'entropy', 'min_impurity_decrease': 0.020795188403876952, 'min_samples_leaf': 0.09053288528274109}
